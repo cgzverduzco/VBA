@@ -6,6 +6,13 @@ The analysis was a request for Steve. He wants to help his parents to make the b
 
 ## Results: 
 
+The analysis of the stocks in 2017 and 2018 gives these results.
+
+#### 2017
+![alt text](./Resources/Stocks2017.png)
+
+#### 2018
+![alt text](./Resources/Stocks2018.png)
 
 
 
@@ -28,7 +35,7 @@ The interaction is looking for just one name and passes through the whole datase
   
 #### Refactored solution
 
-First we have to add three more array to the solutions.
+First, we have to add three more arrays to the solutions.
 
 ![alt text](./Resources/ArrayRefactor.png)
 
