@@ -39,11 +39,11 @@ The time in the data processing was:
   
 #### Refactored solution
 
-First, we have to add three more arrays to the solutions.
+To improve processing times, the changes were made was to add three more arrays to the solutions.
 
 ![alt text](./Resources/ArrayRefactor.png)
 
-The interaction read any name of the stock ticker, and identify the index value in the array, then add the value of volume, starting price, ending price in the same index depending on the array variable. The interaction only passes once over the dataset. These changes help us to save time.
+And change the interaction, now the interaction read any name of the stock ticker, and identify the index value in the array, then add the value of volume, starting price, ending price in the same index depending on the array variable. The interaction only passes once over the dataset. These changes help us to save time.
 
 ![alt text](./Resources/LoopRefactor.png)
 
@@ -52,13 +52,8 @@ The time in the data processing with these changes improved:
 ![alt text](./Resources/VBA_Challenge_2017.png)
 ![alt text](./Resources/VBA_Challenge_2018.png)
 
-
-Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
-
-## Summary: In a summary statement, address the following questions.
-What are the advantages or disadvantages of refactoring code?
-How do these pros and cons apply to refactoring the original VBA script?
-
+## Summary: 
+The advantages of refactoring code are that it's possible to improve the processing data time, write fewer lines of code and create clean solutions.  The disadvantage of refactoring code is this task takes more time to think, plan, and design the solution. In the challenge, the processing data time was improved notoriously. It takes time to refactor the code, but it's worth it.
 
 
 
