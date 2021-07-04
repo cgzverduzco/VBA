@@ -53,7 +53,7 @@ The time in the data processing with these changes improved:
 ![alt text](./Resources/VBA_Challenge_2018.png)
 
 ## Summary: 
-The advantages of refactoring code are that it's possible to improve the processing data time, write fewer lines of code and create clean solutions.  The disadvantage of refactoring code is this task takes more time to think, plan, and design the solution. In the challenge, the processing data time was improved notoriously. It takes time to refactor the code, but it's worth it.
+The advantages of refactoring code are that it's possible to improve the processing data time, write fewer lines of code and create clean solutions.  The disadvantage of refactoring code is this task takes more time to think, plan, and design the solution. In the challenge, the processing data time was improved notoriously. It's possible to add more names of stock tickers without a lot of changes in the code. The code is easy to read and understand. It takes time to refactor the code, but it's worth it. The use of the other types of data helps to create new ways to do things faster and better. We need to think always out of the box.
 
 
 
