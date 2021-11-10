@@ -1,5 +1,5 @@
 # VBA_Challenge
-Challenge 2 - Stock Analysis, using macros VBA. Bootcamp
+Stock Analysis, using macros VBA. 
 
 ## Overview of Project
 The analysis was a request for Steve. He wants to help his parents to make the better decision to invest their money. Steve ask for help. He has the data about the stock ticker of 2017 and 2018. The requirement is to calculate the volume and the return value for each stock of each year. This way, he can advise his parents on which stock is the best choice for investing. The best approach to make this possible is to build a macro for analyzing the data in a short time and a minimum effort for him. We develop a good solution, but the processing data time is high. We need to refactor our code to cut down the processing data time.
